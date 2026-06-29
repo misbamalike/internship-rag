@@ -1,0 +1,36 @@
+test_questions = [
+
+    "What is Machine Learning?",
+    "What are the main types of Machine Learning?",
+    "What is a Neural Network?",
+    "How does a Neural Network work?",
+    "What is Deep Learning?",
+    "What is the difference between Machine Learning and Deep Learning?",
+    "What is a Transformer Model?",
+    "What is self-attention in Transformer models?",
+    "What is Natural Language Processing?",
+    "What are the applications of Natural Language Processing?"
+]
+
+ground_truths = [
+
+    "Machine Learning is a field of artificial intelligence that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed.",
+
+    "The main types of Machine Learning are supervised learning, unsupervised learning, semi-supervised learning, and reinforcement learning.",
+
+    "A Neural Network is a computational model inspired by the human brain that consists of interconnected nodes organized in layers to process information.",
+
+    "A Neural Network works by passing input data through interconnected layers of neurons, applying weights and activation functions to produce outputs.",
+
+    "Deep Learning is a subset of Machine Learning that uses multi-layer neural networks to automatically learn complex patterns from large amounts of data.",
+
+    "Machine Learning focuses on algorithms that learn from data, while Deep Learning is a subset of Machine Learning that uses deep neural networks with multiple layers.",
+
+    "A Transformer Model is a deep learning architecture that uses self-attention mechanisms to process and understand sequential data efficiently.",
+
+    "Self-attention is a mechanism in Transformer models that allows each token to focus on relevant tokens in the input sequence when generating representations.",
+
+    "Natural Language Processing is a branch of artificial intelligence that enables computers to understand, interpret, generate, and interact with human language.",
+
+    "Applications of Natural Language Processing include machine translation, text classification, sentiment analysis, question answering, chatbots, and text summarization."
+]
